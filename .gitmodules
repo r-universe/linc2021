@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HDTSA"]
+	path = HDTSA
+	url = https://github.com/linc2021/hdtsa
+	shallow = true
+	registered = true
